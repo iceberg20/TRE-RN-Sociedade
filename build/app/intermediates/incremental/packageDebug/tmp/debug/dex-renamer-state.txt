@@ -1,0 +1,4 @@
+#Sat Jul 13 20:33:14 BRT 2019
+base.0=/home/italo/AndroidStudioProjects/sci_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
