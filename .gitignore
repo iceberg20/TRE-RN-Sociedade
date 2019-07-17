@@ -53,4 +53,9 @@ build/
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 
+# Android Studio related
+.idea/workspace.xml
+.idea/TRE-RN-Sociedade.iml
+.idea/misc.xml
+
 # End of https://www.gitignore.io/api/flutter
