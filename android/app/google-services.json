@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671727318350",
+    "firebase_url": "https://tre-rn-sociedade.firebaseio.com",
+    "project_id": "tre-rn-sociedade",
+    "storage_bucket": "tre-rn-sociedade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671727318350:android:9f87c33616699d35",
+        "android_client_info": {
+          "package_name": "com.trern.sci_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671727318350-eeovhtkibo07d56t4ipnfq1lmqk6n397.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trern.sci_app",
+            "certificate_hash": "e98e939e3669b15bc98d60d5f71a52b9d13a8298"
+          }
+        },
+        {
+          "client_id": "671727318350-mp3ggc8g0ftp9j41didglbgbikhg6ge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRa9uUS1kJQj21nvVmRCPyJWFL5efZZGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671727318350-mp3ggc8g0ftp9j41didglbgbikhg6ge6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
