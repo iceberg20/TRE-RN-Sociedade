@@ -57,5 +57,10 @@ build/
 .idea/workspace.xml
 .idea/TRE-RN-Sociedade.iml
 .idea/misc.xml
+.idea/libraries/Dart_Packages.xml
+.idea/libraries/Flutter_Plugins.xml
+.idea/
+
+test/widget_test.dart
 
 # End of https://www.gitignore.io/api/flutter
